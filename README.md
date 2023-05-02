@@ -27,5 +27,5 @@ Eu acredito que a tecnologia é uma ferramenta poderosa para transformar o mundo
 
 ### Contato ✉️
 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucaspzanonn@outlook.com) 
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucaspzanonn@outlook.com) ↪ 📨 lucaspzanonn@outlook.com
 
